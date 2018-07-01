@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringbootDemo02.iml" filepath="$PROJECT_DIR$/SpringbootDemo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootalibabalogger/springbootalibabalogger.iml" filepath="$PROJECT_DIR$/springbootalibabalogger/springbootalibabalogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootapi/springbootapi.iml" filepath="$PROJECT_DIR$/springbootapi/springbootapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootlogger/springbootlogger.iml" filepath="$PROJECT_DIR$/springbootlogger/springbootlogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootxdflogger/springbootxdflogger.iml" filepath="$PROJECT_DIR$/springbootxdflogger/springbootxdflogger.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+server:
+  port: 8003
+
+spring:
+  alibaba:
+    logger:
+      alibaba-path: /alibaba/logger
+  xdf:
+    logger:
+      xdf-path: /xdf/logger
+
+  thymeleaf:
+    prefix: classpath:/templates/thymeleaf/
+    suffix: .html
+
+  freemarker:
+    suffix: .html
+    template-loader-path: classpath:/templates/freemark
+
